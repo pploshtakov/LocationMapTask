@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">InterviewTask</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="country">Country</string>
+    <string name="address">Adress</string>
+    <string name="coordinates">Coordinates</string>
+    <string name="marker_id">Marker id:</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="remove_marker">Remove marker</string>
+    <string name="back">Back</string>
+</resources>
